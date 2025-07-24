@@ -1,0 +1,27 @@
+
+{
+  "A1": [
+    {"question": "What is your name?", "type": "text"},
+    {"question": "How old are you?", "type": "number"}
+  ],
+  "A2": [
+    {"question": "Can you describe your daily routine?", "type": "text"},
+    {"question": "What did you do yesterday?", "type": "text"}
+  ],
+  "B1": [
+    {"question": "Describe a memorable event in your life.", "type": "text"},
+    {"question": "What are your hobbies?", "type": "text"}
+  ],
+  "B2": [
+    {"question": "Explain the advantages and disadvantages of social media.", "type": "text"},
+    {"question": "Discuss a recent news event and your opinion about it.", "type": "text"}
+  ],
+  "C1": [
+    {"question": "Analyze the impact of globalization on culture.", "type": "text"},
+    {"question": "What are the challenges of climate change?", "type": "text"}
+  ],
+  "C2": [
+    {"question": "Critique a literary work you have read recently.", "type": "text"},
+    {"question": "Discuss the philosophical implications of artificial intelligence.", "type": "text"}
+  ]
+}
